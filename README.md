@@ -1,1 +1,2 @@
 # Intelligent-Snake-Solvers
+This project explores various search algorithms, including A*, Greedy Best First Search, and Breadth-First Search, to solve the classic Snake puzzle game. Each algorithm is implemented as an agent to navigate the snake through different maze configurations. The project aims to compare the performance of these algorithms in terms of pathfinding efficiency and optimal gameplay strategies.
